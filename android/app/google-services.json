@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "304266856921",
+    "project_id": "internpro-b33e1",
+    "storage_bucket": "internpro-b33e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304266856921:android:b3501cfce881a62d2e31c8",
+        "android_client_info": {
+          "package_name": "com.internpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304266856921-pk311h0g6l8t2gpurasna8gu1ob89onc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.internpro",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "304266856921-7bhtrfabgol61ofnod8rkjt5ksqtb13c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB94WUtzOojw5vr0RfyaLQUFV1Tu6RWDic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304266856921-7bhtrfabgol61ofnod8rkjt5ksqtb13c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
