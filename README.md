@@ -34,3 +34,53 @@ The Prefood app successfully integrates essential features for both admins and c
 
 The Prefood app effectively addresses the needs of the food service industry by providing a streamlined and user-friendly platform for ordering and inventory management. Utilizing modern technologies such as React Native and Firebase, the app ensures high performance and scalability, making it a valuable tool for restaurants, cafes, and hotels to manage their procurement processes efficiently.
 
+Here’s how you can add these instructions to your README file under a new section titled **Running the Application**:
+
+---
+
+## 7. Running the Application
+
+Before running the application, ensure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions up to the "Creating a new application" step.
+
+### Step 1: Start the Metro Server
+
+To begin, start **Metro**, the JavaScript bundler that comes with React Native.
+
+Navigate to the root directory of your React Native project and run the following command:
+
+```bash
+# using npm
+npm start
+
+# OR using Yarn
+yarn start
+```
+
+### Step 2: Start your Application
+
+Let Metro Bundler continue running in its own terminal. Open a new terminal from the root directory of your React Native project. Use the following commands to start your application on an Android or iOS device:
+
+#### For Android
+
+```bash
+# using npm
+npm run android
+
+# OR using Yarn
+yarn android
+```
+
+#### For iOS
+
+```bash
+# using npm
+npm run ios
+
+# OR using Yarn
+yarn ios
+```
+
+---
+
+This addition will guide users through the necessary steps to run the Prefood app on their development environment, ensuring that they have everything set up properly.
+
